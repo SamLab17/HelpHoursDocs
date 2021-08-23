@@ -1,0 +1,3 @@
+baseURL = 'http://utcshelphours.com/docs'
+languageCode = 'en-us'
+title = 'Help Hours Queue Docs'
