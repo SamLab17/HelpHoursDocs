@@ -1,5 +1,10 @@
 # Help Hours Docs
 
+Cloning this repo:
+```
+git clone --recursive https://github.com/SamLab17/HelpHoursDocs
+```
+
 ## For Students
 
 - How to sign up
